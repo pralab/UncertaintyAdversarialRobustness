@@ -1,6 +1,6 @@
 # Uncertainty Adversarial Robustness
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vVbEmkDVWsgPJMSMEnc_aBqPn6P7YrkG?usp=sharing)
-[![Arxiv](https://github.com/EmanueleLedda97/UncertaintyAdversarialRobustness/blob/code_refactoring/arxive_button.svg)](https://arxiv.org/)
+[![Arxiv](https://github.com/EmanueleLedda97/UncertaintyAdversarialRobustness/blob/code_refactoring/arxive_button.svg)](https://arxiv.org/pdf/2410.21952)
 
 This repository contains all the code used for running the experiments conducted on our work **On the Robustness of Adversarially Trained Models against Uncertainty Attack**, submitted at Pattern Recognition, August 2024.
 
